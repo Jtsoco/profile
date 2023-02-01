@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: #8e5a2a;
+  background-color: rgb(1, 69, 1);
   font-family: 'Merriweather', serif;
   color: #614124 ;
   font-size: 16px;
@@ -73,10 +73,9 @@ h3 {
 
 .card {
   text-align: center;
-  background-color: #76b648;
+  background-color: white;
   border-radius: 20px;
-  border: #614124 solid 1px;
-  box-shadow: 6px 6px 3px #614124 ;
+  box-shadow: 6px 6px 3px black ;
   margin: 20px auto;
   padding: 20px;
 }
